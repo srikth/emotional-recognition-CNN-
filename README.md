@@ -30,6 +30,13 @@ Loss curves and confusion matrix will be included.
 - Use transfer learning (ResNet / VGG)
 - Real-time webcam integration
 - Hyperparameter optimization
+- ## Research Background
+
+Facial emotion recognition combines computer vision and psychological models of human affect. Basic emotion theory was formalized by Paul Ekman, identifying universal facial expressions.
+
+Convolutional Neural Networks (CNNs), pioneered by LeCun et al., revolutionized image-based classification by enabling automated feature extraction.
+
+This project applies CNN architectures to facial emotion recognition, leveraging deep learning techniques for accurate emotion classification.
 ## references
 LeCun, Yann et al.,
 “Gradient-Based Learning Applied to Document Recognition,” Proceedings of the IEEE, 1998.
@@ -41,5 +48,7 @@ Ekman, Paul,
 
 Li & Deng, “Deep Facial Expression Recognition: A Survey,” IEEE Transactions on Affective Computing, 2020.
 → Modern FER survey.
+## statement 
+This work aims to extend my research in interdisciplinary Systems like Emotion recognition , Psycological models .
 ## Author
 Srikanth Shanmugam
