@@ -30,6 +30,16 @@ Loss curves and confusion matrix will be included.
 - Use transfer learning (ResNet / VGG)
 - Real-time webcam integration
 - Hyperparameter optimization
+## references
+LeCun, Yann et al.,
+“Gradient-Based Learning Applied to Document Recognition,” Proceedings of the IEEE, 1998.
+→ CNN foundations.
 
+Ekman, Paul,
+“An Argument for Basic Emotions,” Cognition & Emotion, 1992.
+→ Psychological emotion theory.
+
+Li & Deng, “Deep Facial Expression Recognition: A Survey,” IEEE Transactions on Affective Computing, 2020.
+→ Modern FER survey.
 ## Author
 Srikanth Shanmugam
